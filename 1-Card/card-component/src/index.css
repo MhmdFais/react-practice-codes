@@ -1,9 +1,11 @@
 .card{
   width: 20vw;
   height: 35vh;
-  border: 1px solid black;
+  border: 1px solid rgba(26, 26, 26, 0.103);
   border-radius: 1rem;
   box-shadow: 0.5rem 0.5rem 1rem gray;
+  margin: 2rem;
+  display: inline-block;
 }
 
 .card img{

@@ -6,7 +6,7 @@ function Card(){
             <img alt="example picture" src={placePic}></img>
             <h2>Heading of the card</h2>
             <p>This is a random paragraph to test out things</p>
-        </div>
+        </div>  
     );
 }
 
