@@ -1,0 +1,10 @@
+.employeeCard{
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    display: inline-block;
+    border: 0.5px solid #6e6a6a;
+    border-radius: 10px;
+    background-color: #f4f4f4;
+    box-shadow: 0.5rem 0.5rem  0.6rem rgba(0, 0, 0, 0.486);
+}
