@@ -9,4 +9,10 @@ function Employee(props){
     )
 }
 
+Employee.defaultProps = {
+    name: 'Undefined',
+    age: 25,
+    isManager: false
+}
+
 export default Employee;
