@@ -6,4 +6,11 @@ function Greetings(props) {
 
 }
 
+Greetings.defaultProps = {
+    isLoggedIn: false,
+    userName: "Guest",
+}
+
+
+
 export default Greetings;
