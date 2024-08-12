@@ -33,3 +33,4 @@ function Button(){
 export default Button;
 
 // ALSO "onDoubleClick" EVENT IS AVAILABLE
+// YOU CAN ALSO ADD "onClick" EVENT TO ANY HTML ELEMENT
