@@ -8,7 +8,9 @@ function Number(){
         setCount(count + 1);
     }
 
-    const decrement = () => {(count > 0) ? setCount(count - 1) : setCount(0);}
+    const decrement = () => {
+        (count > 0) ? setCount(count - 1) : setCount(0);
+    }
 
     const reset = () => {
         setCount(0);
